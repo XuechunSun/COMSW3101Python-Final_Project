@@ -21,7 +21,7 @@
         - Visualize cluster group plot based on PCA plot
         
 - Instruction of running codes
-    - Install plotly package in your PC(in your terminal, enter: conda install -c https://conda.anaconda.org/plotly plotly)
+    - Install plotly package in your PC-MAC(in your terminal, enter: conda install -c https://conda.anaconda.org/plotly plotly)
     - Get API key in plotly (https://plot.ly/python/getting-started/)
     - Change the path directory of data files while loading csv files
     - Run codes cell by cell
